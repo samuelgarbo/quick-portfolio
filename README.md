@@ -1,3 +1,3 @@
 # Portfolio
 
-## Live Preview(https://samuelgarbo.github.io/)
+### [Live Preview](https://samuelgarbo.github.io/)
