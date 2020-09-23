@@ -4,11 +4,11 @@
 
 ### Category Name 1 
 
-[Let's Eat app](/sample_page)
+[Project 1 - Let's Eat app](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Todo app](/pdf/sample_presentation.pdf)
+[Project 2 - Todo app](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
