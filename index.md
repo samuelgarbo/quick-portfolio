@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Projects 
 
 [Project 1 - Let's Eat app](/lets_eat)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -10,11 +10,3 @@
 ---
 [Project 2 - Todo app](/todo)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
