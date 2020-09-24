@@ -11,4 +11,4 @@
 ---
 [Project 2 - Todo app](/todo)
 
-<img src="images/todo.jpg?raw=true"/>
+<img src="images/todo-app.jpg?raw=true"/>
