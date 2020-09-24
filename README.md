@@ -1,4 +1,4 @@
 # Portfolio
 
 ### [Live Preview](https://samuelgarbo.github.io/)
-(./images/portfolio.jpg)
+![portfolio image](/images/portfolio.jpg)
